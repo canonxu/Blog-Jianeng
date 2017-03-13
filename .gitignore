@@ -1,11 +1,12 @@
-<<<<<<< HEAD
+
+# deploy files
 /.deploy_git
 
-
+# generated static files
 /public
 
+# installed node modules
 /node_modules
 
-_site
 .DS_Store
 *.md~
