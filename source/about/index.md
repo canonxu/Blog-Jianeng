@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About Me
+copyright: false
+toc: false
 ---
 
 <img src="http://7rfk7p.com1.z0.glb.clouddn.com/canon.jpg" align=right width="200px" height="200px">
