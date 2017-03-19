@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape-f
+theme: landscape-alpha
 #theme: landscape-plus
 #theme: jacman
 
