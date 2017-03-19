@@ -15,9 +15,11 @@ Pycon2014 @Shanghai 在上海浦东新区博云路2号浦软大厦召开。学�
 
 今年的Pycon在张江的浦软大厦举行，从早上九点到下午六点结束，中间提供午餐和茶歇。
 
+<!-- more -->
+
 <img src="http://canonxu-com.qiniudn.com/pycon_scheme1.jpg" height="280" width="700" >
 
-<!-- more -->
+
 
 <img src="http://canonxu-com.qiniudn.com/pycon_scheme2.jpg" height="450" width="700" >
 
