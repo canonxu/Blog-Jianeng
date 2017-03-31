@@ -14,19 +14,16 @@ donate: false
 
 我是一个编程新手，但是这不妨碍我热爱编程。我希望能够在做好本职工作的同时，挤出时间，练好编程内功，coding出好的作品。我热切期待遇见志同道合的朋友一起学习！
 
-我的爱好还包括骑行、摇滚乐和拍火车，也期待有这些兴趣的朋友多多与我交流。我的个人邮箱是 `canonxu AT yeah.net`，欢迎各种骚扰！
+我的爱好还包括骑行、摇滚乐和拍火车，也期待有这些兴趣的朋友多多与我交流。我的个人邮箱是 `canonxu AT yeah.net`，欢迎骚扰！
 
 <br>
 ## 关于博客
-我对高中课本中印象最深刻的一篇课文是培根的《论厄运》，里面有如下一段话：
 
-*Lively describing Christian resolution, that saileth in the frail bark of the flesh, through the waves of the world. But to speak in a mean. The virtue of prosperity, is temperance; the virtue of adversity, is fortitude; which in morals is the more heroical virtue.* 
- 　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-- Francis Bacon,《Of Adversity》
+这是我的第二版博客，从2017年3月开始搭建维护，最大的初衷是要托管在自己的服务器上，获得更好的掌控能力进行改造和优化。第一版基于Github Page和Jekyll的博客[佳能的乐园](https://canonxu.github.io)已停止维护。
 
-我们又何不是以我们的血肉之躯的轻舟，横渡波涛汹涌的生活之海，学习之海甚至是编程之海，顺风时的美德是节制，逆风时的美德是坚韧。所以，我把博客命名“Jianeng's Barque”，意思是佳能血肉之躯的轻舟，我希望在这个博客里，我能够“澄思寂虑，三省吾身”，在不断的思考和总结中修炼自己。
+本博客基于静态博客框架HEXO，在landscapr/landscape-f基础上定制了自己的[landscape-alpha](https://github.com/canonxu/landscape-alpha)主题，部署在个人阿里云服务器上，由Nginx做静态代理，图片托管在七牛云上，评论功能由Disqus强力驱动。
 
-此外，我还增加了wave页面来记录如波浪一样的生活琐碎，差不多一个基于关键字的单机微博：）
-
+本博客的源码托管于Github上[Blog-Barque](https://github.com/canonxu/Jianeng-Barque)，本博客采用更开放的「署名 4.0 国际（CC BY 4.0）」创作共享协议，欢迎各种形式的转载，以及二次创作和商业性使用，但是务必署名，注明文章出处。
 
 <br>
 ## 我在别处
